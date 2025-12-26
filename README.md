@@ -1,7 +1,7 @@
-### 👋 Hello! My name is **Daniel Ian** and I am currently a first year computer science major studying at the *University of California, Irvine*!  
+### 👋 Hello! My name is **Daniel Ian** and I am currently a recent Computer Science graduate from the *University of California, Irvine*!  
 
-I am from *West Covina, California* but I was born in the city of *Muntinlupa* in the *Philippines*. I am interested in front-end development and have been working on getting familiar with various front-end tools. I have also developed an interest in competitive programming which is something that I have always wanted to try out. I'm looking forward to learning about the vast field of computer science!  
+I am from *West Covina, California* but I was born in the city of *Muntinlupa* in the *Philippines*. I'm particularly interested in web development and software engineering with a strong focus on building clean, user-friendly applications. Through personal and collaborative projects, I’ve worked with a variety of modern tools while continuing to explore different areas of computer science. Through personal and collaborative projects, I’ve worked with a variety of modern tools while continuing to explore different areas of computer science.
+
+I enjoy learning new technologies, tackling challenging problems, and collaborating with people from diverse backgrounds to build meaningful solutions.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/daniel-ian-reyes-7a7378224)!  
-
-
